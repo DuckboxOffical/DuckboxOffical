@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @DuckboxOffical
+- 👀 I’m interested in technology (obviously), electrical engineering, coding
+- 🌱 I’m currently learning italian, ASCII art and some python
+- 💞️ I’m looking to collaborate on something
+- 📫 How to reach me
+- 💻 I look forward to improving my HTML skills
